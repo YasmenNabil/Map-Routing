@@ -1,0 +1,47 @@
+C:\Users\hp\Desktop\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\hp\Desktop\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\hp\Desktop\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\hp\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\hp\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+E:\Kolia\algo\_Noran\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+E:\Kolia\algo\_Noran\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+E:\Kolia\algo\_Noran\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+E:\Kolia\algo\_Noran\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+E:\Kolia\algo\_Noran\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\lenovo\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+H:\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+H:\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+H:\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\New folder (3)\ana\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\lenovo\Desktop\New folder (3)\ana\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\New folder (3)\ana\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\New folder (3)\ana\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\New folder (3)\ana\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\New folder (3)\ana\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+E:\Kolia\algo\_Noran\tmp\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+E:\Kolia\algo\_Noran\tmp\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+E:\Kolia\algo\_Noran\tmp\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+E:\Kolia\algo\_Noran\tmp\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+E:\Kolia\algo\_Noran\tmp\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+E:\Kolia\algo\_Noran\tmp\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Algorithm_Final\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\lenovo\Desktop\Algorithm_Final\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\Algorithm_Final\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\Algorithm_Final\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\Algorithm_Final\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\lenovo\Desktop\Algorithm_Final\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+F:\Year 3\1st Term\Algorithms\Algorithm_Final\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+F:\Year 3\1st Term\Algorithms\Algorithm_Final\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+F:\Year 3\1st Term\Algorithms\Algorithm_Final\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+F:\Year 3\1st Term\Algorithms\Algorithm_Final\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+F:\Year 3\1st Term\Algorithms\Algorithm_Final\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+F:\Year 3\1st Term\Algorithms\Algorithm_Final\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Projects\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\lenovo\Desktop\Projects\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\lenovo\Desktop\Projects\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
